@@ -12,10 +12,10 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 
 | Project | What to explore | Technologies |
 | --- | --- | --- |
-| [Chatify](https://github.com/yalcinfu22/Chatify) | Real-time messaging, authentication and a repository-pattern backend | Node.js, Express, Socket.IO, MongoDB, React |
-| [GetHere](https://github.com/yalcinfu22/GetHere) | A food-delivery application with customer, courier and manager workflows | Python, Flask, MySQL |
 | [Matchtoria](https://github.com/yalcinfu22/Matchtoria) | A match-3 game with separate gameplay models, commands and views | C#, Unity, DOTween |
+| [Chatify](https://github.com/yalcinfu22/Chatify) | Real-time messaging, authentication and a repository-pattern backend | Node.js, Express, Socket.IO, MongoDB, React |
 | [Basic Computer](https://github.com/yalcinfu22/Basic-Computer) | A CPU implementation with an ALU, control unit, memory and simulation testbenches | Verilog |
+| [GetHere](https://github.com/yalcinfu22/GetHere) | A food-delivery application with customer, courier and manager workflows | Python, Flask, MySQL |
 
 **Teamwork:** Matchtoria and Basic Computer were two-person projects; GetHere was a five-person project. Project READMEs include more context and contributor information.
 
@@ -30,4 +30,3 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 ## Looking ahead
 
 I'm interested in backend systems, performance and reliable software. I'm open to **graduate software engineering roles from July 2027**, including relocation within Europe and remote opportunities.
-
