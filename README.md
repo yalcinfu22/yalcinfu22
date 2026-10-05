@@ -6,7 +6,7 @@ I'm a Computer Engineering student at ITU, expecting to graduate in **July 2027*
 
 I like understanding how systems work, measuring bottlenecks and finding practical ways to solve problems.
 
-[LinkedIn](https://www.linkedin.com/in/yalcin-furkan/) · [LeetCode](https://leetcode.com/u/FuYal/) · [Codeforces](https://codeforces.com/profile/Kekil)
+[LinkedIn](https://www.linkedin.com/in/yalcin-furkan/) · [LeetCode](https://leetcode.com/u/FuYal/) · [LeetCode SideAcc](https://leetcode.com/u/Kazarix/) [Codeforces](https://codeforces.com/profile/Kekil)
 
 ## Selected projects
 
