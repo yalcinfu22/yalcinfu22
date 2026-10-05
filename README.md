@@ -31,4 +31,4 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 
 ## Looking ahead
 
-I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from July 2027**, including relocation within Europe and remote opportunities.
+I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from June-July 2027**, including relocation within Europe and remote opportunities.
