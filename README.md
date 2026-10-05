@@ -3,7 +3,7 @@
 **Software engineering · C# / Unity · Backend systems**  
 **Computer Engineering @ Istanbul Technical University**
 
-I'm a Computer Engineering student at ITU, expecting to graduate in **June–July 2027**. I build gameplay systems with **C# and Unity**, and backend applications with **ASP.NET Core, Node.js and Python**. My work also includes **Semantic Kernel and MCP** integrations.
+I'm a Computer Engineering student at ITU, expecting to graduate in **June 2027**. I build gameplay systems with **C# and Unity**, and backend applications with **ASP.NET Core, Node.js and Python**. My work also includes **Semantic Kernel and MCP** integrations.
 
 I like understanding how systems work, measuring bottlenecks and finding practical ways to solve problems.
 
@@ -31,4 +31,4 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 
 ## Looking ahead
 
-I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from June-July 2027**, including relocation within Europe and remote opportunities.
+I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from June 2027**, including relocation within Europe and remote opportunities.
