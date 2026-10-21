@@ -27,6 +27,10 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 - **Data and tools:** MySQL, MongoDB, Git, Docker, Postman
 - **Also explored:** VHDL, Verilog, MATLAB and digital design
 
+# **Open-source contributions**
+
+[PR #1841] https://github.com/modelcontextprotocol/csharp-sdk/pull/1841
+
 ## Looking ahead
 
 I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from June 2027**, including relocation within Europe and remote opportunities.
