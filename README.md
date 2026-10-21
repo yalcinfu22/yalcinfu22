@@ -24,7 +24,7 @@ I'm a Computer Engineering student at ITU. I build gameplay systems with **C# an
 - **Gameplay:** C#, Unity, DOTween, domain-driven design
 - **Backend:** Node.js, Express, Socket.IO, REST APIs, MongoDB
 - **Learning:** ASP.NET Core, Semantic Kernel, Model Context Protocol (MCP)
-- **Languages:** C#, JavaScript, Python
+- **Languages:** C/C++, C#, JavaScript, Python
 - **Hardware coursework:** Verilog, VHDL, MATLAB
 - **Tools:** Git, Docker, Postman
 
