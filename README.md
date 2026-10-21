@@ -1,11 +1,13 @@
 # Furkan Yalçın
 
-**Software engineering · C# / Unity · Backend systems**  
-**Computer Engineering @ Istanbul Technical University**
+**Computer Engineering @ Istanbul Technical University · Graduating June 2027**  
+**C# · Unity · Backend · Learning agentic AI**
 
-I'm a Computer Engineering student at ITU, expecting to graduate in **June 2027**. I build gameplay systems with **C# and Unity**, and backend applications with **ASP.NET Core, Node.js and Python**. My work also includes **Semantic Kernel and MCP** integrations.
+I'm a Computer Engineering student at ITU. I build gameplay systems with **C# and Unity** and web applications with **MERN stack**. I'm currently learning to build agentic AI applications with **ASP.NET Core, Semantic Kernel and MCP**.
 
-I like understanding how systems work, measuring bottlenecks and finding practical ways to solve problems.
+## Open-source contributions
+
+- [modelcontextprotocol/csharp-sdk#1841](https://github.com/modelcontextprotocol/csharp-sdk/pull/1841): Disposes the POST response in `SseClientSessionTransport`, which was leaking a connection per message. Merged October 2026.
 
 ## Selected projects
 
@@ -19,17 +21,13 @@ I like understanding how systems work, measuring bottlenecks and finding practic
 
 ## What I work with
 
-- **Gameplay:** C#, Unity, DOTween, domain-driven design principles
-- **Backend:** ASP.NET Core, Node.js, Express, REST APIs, Socket.IO
-- **AI integrations:** Semantic Kernel, Model Context Protocol (MCP), retrieval-augmented generation (RAG)
-- **Languages:** C#, C/C++, Python, Java, JavaScript
-- **Data and tools:** MySQL, MongoDB, Git, Docker, Postman
-- **Also explored:** VHDL, Verilog, MATLAB and digital design
-
-# **Open-source contributions**
-
-[PR #1841] https://github.com/modelcontextprotocol/csharp-sdk/pull/1841
+- **Gameplay:** C#, Unity, DOTween, domain-driven design
+- **Backend:** Node.js, Express, Socket.IO, REST APIs, MongoDB
+- **Learning:** ASP.NET Core, Semantic Kernel, Model Context Protocol (MCP)
+- **Languages:** C#, JavaScript, Python
+- **Hardware coursework:** Verilog, VHDL, MATLAB
+- **Tools:** Git, Docker, Postman
 
 ## Looking ahead
 
-I'm interested in gameplay and backend systems, performance and reliable software. I'm open to **part-time software engineering opportunities while studying** and **graduate roles from June 2027**, including relocation within Europe and remote opportunities.
+Open to **part-time software engineering roles while studying** and **graduate roles from June 2027**, in Europe (with relocation) or remote.
